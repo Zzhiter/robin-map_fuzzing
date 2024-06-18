@@ -3,5 +3,6 @@
         "iterator": "cpp",
         "array": "cpp",
         "string_view": "cpp"
-    }
+    },
+    "C_Cpp.default.compilerPath": "/usr/local/bin/clang-11"
 }
